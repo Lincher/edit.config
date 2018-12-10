@@ -1,0 +1,74 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/source/druid-master/src/main/java/com/alibaba/druid/Constants.java" timestamp="1544412387539">
+        <mark key="'" line="17" column="27" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="21" column="4" filename="E:/source/druid-master/src/main/java/com/alibaba/druid/Constants.java" />
+      <jump line="19" column="4" filename="E:/source/druid-master/src/main/java/com/alibaba/druid/Constants.java" />
+      <jump line="17" column="27" filename="E:/source/druid-master/src/main/java/com/alibaba/druid/Constants.java" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text encoding="base64">XDxwdWJsaWNcPg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxwdWJsaWNcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxwdWJsaWNcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
